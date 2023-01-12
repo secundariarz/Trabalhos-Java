@@ -1,0 +1,139 @@
+@charset "ISO-8859-1";
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap'); 
+
+input {
+	display: block;
+	margin-top: 10px;
+	border-radius: 20px;
+	align-items: left;
+
+}
+
+
+html,body {
+	width: 100vw;
+	height: 100vh;
+	margin: 0;
+	padding: 0;
+}
+
+.clonateCard {
+	display: flex;
+	justify-content: center;
+}
+
+.title {
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	font-family: 'Roboto Mono', monospace;
+}
+
+
+.addCart {
+	display: inline-block;
+	cursor: pointer;
+	width: 120px;
+	height: 40px;
+	margin-top: 15px;
+	background-color: transparent;
+	margin-left: 25px;
+	border-radius: 20px;	
+	border: 1px solid;
+}
+
+.contentLeft {
+	position: absolute;
+	left: 0;
+	width: 50vw;
+	height: 100vh;
+	background-color: rgba(211,67,244,255);
+}
+
+.contentRight {
+	position: absolute;
+	right: 0;
+	width: 50vw;
+	height: 100vh;
+}
+
+
+
+.cardLeft {
+	margin-top: 245px;
+	
+}
+
+.cardRight {
+	position: absolute;
+	bottom: 60%;
+	left: 30%;
+	width: 340px;
+	height: 201px;
+	border: 1px solid transparent;
+	border-radius: 10px;
+	background-color: rgba(170,51,208,255);
+	box-shadow: 3px 3px 3px black;
+}
+
+.squares {
+	display: flex;
+	justify-content: right;
+	align-items: right;
+	margin-right: 30px;
+	margin-top: 25px;
+}
+
+.square {
+	background-color: rgba(249,78,95,255);
+	width: 35px;
+	height: 35px;
+	transform: rotate(45deg);
+	display: inline-block;
+	
+}
+
+.square:nth-child(2) {
+	background-color: rgba(247,208,85,255);
+	width: 35px;
+	height: 35px;
+	display: inline-block;
+}
+
+.bi-wifi-2 {
+	 color: white;
+	transform: rotate(90deg);
+	margin-top: 13px;
+	margin-left: 22%;
+	position: relative;
+	top: 17px;
+	
+}
+
+.chipImg {
+	width: 95px;
+	height: 45px;
+	margin-left: 5px;
+	position: relative;
+	top: -20px;
+}
+
+.logoImg {
+
+	width: 95px;
+	height: 45px;
+	margin-left: 5px;
+	position: relative;
+	top: -20px;
+}
+
+.name {
+	position: relative;
+	left: 90px;
+	top: -55px;
+	
+}
+
+
+
+
