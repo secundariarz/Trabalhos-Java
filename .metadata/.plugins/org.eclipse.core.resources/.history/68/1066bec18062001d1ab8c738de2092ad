@@ -1,0 +1,14 @@
+package projetodoarielzinho;
+
+import java.util.Scanner;
+
+public class Ex8Li {
+	public static void main(String[] args) {
+Scanner entrada = new Scanner(System.in);
+		
+		System.out.println("Digite a senha: ");
+		double atual = entrada.nextDouble();
+		
+		
+	}
+}

@@ -1,0 +1,13 @@
+package projetodoarielzinho;
+
+public class Ex2Lu {
+	public static void main(String[] args) {
+		double ano = 365;
+		if(ano % 4 == 0 && ano % 400 == 0) {
+			System.out.println("Bissexto");
+		} else if(ano % 4 == 0 && ano % 100 == 0) { 
+			System.out.println("Não é");
+		}
+		
+	}
+}

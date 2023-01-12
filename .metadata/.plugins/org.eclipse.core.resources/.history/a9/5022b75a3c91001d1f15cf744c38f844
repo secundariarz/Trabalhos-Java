@@ -1,0 +1,5 @@
+package com.example.livro.demo.entity;
+
+public class Livro {
+
+}

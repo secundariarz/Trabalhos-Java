@@ -1,0 +1,25 @@
+package Exercícios;
+
+import java.util.Scanner;
+
+public class Ex13 {
+	public static void main(String[] args) {
+		Scanner entrada = new Scanner(System.in);
+		
+		System.out.println("DIGITA O RAIO: ");
+		int value = entrada.nextInt();
+		
+		System.out.println("DIGITA O RAIO: ");
+		int value2 = entrada.nextInt();
+		
+		System.out.println("DIGITA O RAIO: ");
+		int value3 = entrada.nextInt();
+		
+		int[] myNum = {value , value2 , value3};
+		
+		System.out.println(myNum[0]);
+		
+	}
+	
+	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Clonar Cartão/src/main/webapp/CC.CSS&apos; to &apos;CC.css&apos;" description="Rename resource &apos;CC.CSS&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/CC.CSS" name="CC.css" stamp="1670542676735" updateReferences="true"/>
+</session>

@@ -1,0 +1,12 @@
+package projetodoarielzinho;
+
+import java.util.Scanner;
+
+public class Ex9Li {
+	public static void main(String[] args) {
+Scanner entrada = new Scanner(System.in);
+		
+		System.out.println("DIGITE UM NUMERO: ");
+		double atual = entrada.nextDouble();
+	}
+}

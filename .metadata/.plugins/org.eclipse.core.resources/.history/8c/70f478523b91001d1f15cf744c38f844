@@ -1,0 +1,5 @@
+package com.demo.mvc.entity;
+
+public class Livro {
+
+}

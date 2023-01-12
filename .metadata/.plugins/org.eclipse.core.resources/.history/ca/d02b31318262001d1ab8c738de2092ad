@@ -1,0 +1,21 @@
+package projetodoarielzinho;
+
+import java.util.Scanner;
+
+public class Ex8Li {
+	public static void main(String[] args) {
+		Scanner entrada = new Scanner(System.in);
+		
+		System.out.println("Digite a senha: ");
+		double atual = entrada.nextDouble();
+		
+		while(atual != 2002) {
+			System.out.println("Senha Inválida");
+			atual = entrada.nextDouble();			
+			
+		}
+			System.out.println("Acesso permitido");
+		}
+		
+	}
+

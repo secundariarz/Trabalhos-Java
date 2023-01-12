@@ -1,0 +1,5 @@
+package com.example.livro.demo.repository;
+
+public interface LivroRepository {
+
+}

@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\Administrador\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1064734747.index
+\Clonar Cartão\src\main\java
+C:\Users\Administrador\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\272278375.index
+\Clonar Cartão\src\main\java
+C:\Users\Administrador\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3084691452.index
+\javaWeb\src\main\java
+C:\Users\Administrador\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3455769880.index
+\javaWeb\src\main\java

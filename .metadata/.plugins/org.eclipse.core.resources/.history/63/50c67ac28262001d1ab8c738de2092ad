@@ -1,0 +1,18 @@
+package projetodoarielzinho;
+
+import java.util.Scanner;
+
+public class Ex4Li {
+	public static void main(String[] args) {
+		Scanner entrada = new Scanner(System.in);
+		
+		System.out.println("DIGITE UM NUMERO: ");
+		double atual = entrada.nextDouble();
+		
+		if(atual == 2 || atual % 2 == 0) {
+			System.out.println("primo!");
+		} else {
+			System.out.println("não é");
+		}
+	}
+}

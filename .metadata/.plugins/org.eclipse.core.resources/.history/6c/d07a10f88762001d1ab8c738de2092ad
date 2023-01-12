@@ -1,0 +1,23 @@
+package projetodoarielzinho;
+
+import java.util.Scanner;
+
+public class Ex9Li {
+	public static void main(String[] args) {
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("DIGITE UM NUMERO: ");
+		double atual = entrada.nextDouble();
+		int count = 0;
+	
+		while(atual > 0) {
+			double media = 0;
+			atual = entrada.nextDouble();
+			count++;
+			media += atual;
+		}
+		
+		System.out.println("A quantidade de numeros foram: " + count);
+		System.out.println("A media dos mesmos é: " + (media / 2));
+		
+	}
+}

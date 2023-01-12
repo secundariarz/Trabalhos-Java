@@ -1,0 +1,13 @@
+package projetodoarielzinho;
+
+import java.util.Scanner;
+
+public class Ex5Lu {
+	public static void main(String[] args) {
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("DIGITE A BASE: ");
+		double base = entrada.nextDouble();
+		
+		
+	}
+}

@@ -1,0 +1,27 @@
+package projetodoarielzinho;
+
+import java.util.Scanner;
+
+public class Ex7Li {
+	public static void main(String[] args) {
+		Scanner entrada = new Scanner(System.in);
+		
+		System.out.println("QUANTIDADE ATUAL NO ESTOQUE: ");
+		double atual = entrada.nextDouble();
+		
+		System.out.println("QUANTIDADE MAXIMA NO ESTOQUE: ");
+		double maxima = entrada.nextDouble();
+		
+		System.out.println("QUANTIDADE MINIMA NO ESTOQUE: ");
+		double minima = entrada.nextDouble();
+		
+		
+		double media = (maxima + minima) / 2;
+		
+		if(atual >= media) {
+			System.out.println("Não efetuar a compra);
+		} else {
+			System.out.println("Efetuar a compra");
+		}
+	}
+}

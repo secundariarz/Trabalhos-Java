@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Dec 27 21:20:32 BRT 2022
+org.eclipse.jst.jee.server\:Clonar\ Cart\u00E3o=C\:\\Users\\Administrador\\Desktop\\Apache\\apache-tomcat-10.1.1\\wtpwebapps\\Clonar Cart\u00E3o
+org.eclipse.jst.jee.server\:javaWeb=C\:\\Users\\Administrador\\Desktop\\Apache\\apache-tomcat-10.1.1\\wtpwebapps\\javaWeb

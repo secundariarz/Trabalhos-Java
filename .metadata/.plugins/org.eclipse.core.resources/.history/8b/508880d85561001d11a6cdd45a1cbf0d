@@ -1,0 +1,14 @@
+package projetodoarielzinho;
+
+public class Ex5Li {
+	public static void main(String[] args) {
+		for(int i = 0 ; i <= 20; i++) {
+			for(int j = 1000; j <= 1999; i++) {
+				if(j % 11 == 5) {
+					System.out.println(j);
+				}
+				}
+			}
+		}
+	}
+

@@ -1,0 +1,12 @@
+package projetodoarielzinho;
+
+import java.util.Scanner;
+
+public class Ex7Li {
+	public static void main(String[] args) {
+		Scanner entrada = new Scanner(System.in);
+		
+		System.out.println("DIGITA O NUM DA CONTA: ");
+		double conta = entrada.nextDouble();
+	}
+}
